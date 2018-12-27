@@ -15,3 +15,6 @@
 ## 工具
 
 - [vim 入坑指南](https://github.com/crazylxr/blog/issues/6)
+
+## 函数式编程
+- [函数式编程资料收集](https://github.com/crazylxr/blog/issues/7)
