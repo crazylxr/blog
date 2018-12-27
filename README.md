@@ -17,4 +17,9 @@
 - [vim 入坑指南](https://github.com/crazylxr/blog/issues/6)
 
 ## 函数式编程
+
 - [函数式编程资料收集](https://github.com/crazylxr/blog/issues/7)
+
+## 微信公众号
+
+![](http://imgs.taoweng.site/qrcode_for_gh_39aba8571ae1_344.jpg)
