@@ -5,6 +5,17 @@
 
 - [Javascript核心概念数据类型](https://github.com/crazylxr/blog/issues/5)
 - [Javascript核心概念执行上下文和栈](https://github.com/crazylxr/blog/issues/1)
+- 变量对象、活动对象
+- 原型、原型链
+- 作用域
+- 闭包、垃圾回收机制
+- this
+- 类和模块
+- 继承
+- 同步异步
+- 事件模型
+- Ajax、跨域访问
+- 事件循环
 
 ## ES6
 
