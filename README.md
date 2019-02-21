@@ -31,7 +31,7 @@
 
 - [函数式编程资料收集](https://github.com/crazylxr/blog/issues/7)
 - [函数式编程之概述](https://github.com/crazylxr/blog/issues/8)
-- 函数式编程之组合
+- [函数式编程之组合](https://github.com/crazylxr/blog/issues/10)
 - 函数式编程之一等公民
 - 函数式编程之递归应用
 - 函数式编程之流编程
