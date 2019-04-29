@@ -42,6 +42,9 @@
 
 ## 一些教程
 - [发布 react 组件到 npm 上](https://github.com/crazylxr/blog/issues/9)
+
+## 其他
+- [一写有用的 js 片段 ](https://github.com/crazylxr/blog/issues/11)
 ## 微信公众号
 
 ![](http://imgs.taoweng.site/qrcode_for_gh_39aba8571ae1_344.jpg)
