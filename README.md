@@ -39,6 +39,10 @@
 - 函数式编程之异步编程
 
 ## React 源码系列
+## 性能优化系列
+
+- 每个前端都应该知道的图片知识
+- 图片优化
 
 ## 一些教程
 - [发布 react 组件到 npm 上](https://github.com/crazylxr/blog/issues/9)
