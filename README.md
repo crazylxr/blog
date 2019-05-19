@@ -42,7 +42,7 @@
 - Fiber 架构原理
 ## 性能优化系列
 
-- 每个前端都应该知道的图片知识
+- [每个前端都应该知道的图片知识](https://github.com/crazylxr/blog/issues/12)
 - 图片优化
 
 ## 一些教程
