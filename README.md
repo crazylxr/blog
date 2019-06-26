@@ -39,7 +39,7 @@
 - 函数式编程之异步编程
 
 ## React 源码系列
-- [浅谈 Fiber 架构原理]()
+- [浅谈 Fiber 架构原理](https://github.com/crazylxr/blog/issues/13)
 ## 性能优化系列
 
 - [每个前端都应该知道的图片知识](https://github.com/crazylxr/blog/issues/12)
