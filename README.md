@@ -2,6 +2,7 @@
 个人技术博客记录
 
 ## JavaScript核心篇
+这个系列暂时断更，网上相关文章太多了。
 
 - [Javascript核心概念数据类型](https://github.com/crazylxr/blog/issues/5)
 - [Javascript核心概念执行上下文和栈](https://github.com/crazylxr/blog/issues/1)
@@ -28,6 +29,7 @@
 - [vim 入坑指南](https://github.com/crazylxr/blog/issues/6)
 
 ## 函数式编程
+这个系列暂时断更
 
 - [函数式编程资料收集](https://github.com/crazylxr/blog/issues/7)
 - [函数式编程之概述](https://github.com/crazylxr/blog/issues/8)
