@@ -44,6 +44,7 @@
 - [浅谈 Fiber 架构原理](https://github.com/crazylxr/blog/issues/13)
 - [根据 React 历史来聊如何理解虚拟 DOM](https://github.com/crazylxr/blog/issues/14)
 - [如何对 React 函数式组件进行优化](https://github.com/crazylxr/blog/issues/15)
+- [从 0 开始实现一个 fiber 架构的 React(一)--初次渲染](https://github.com/crazylxr/blog/issues/16)
 ## 性能优化系列
 
 - [每个前端都应该知道的图片知识](https://github.com/crazylxr/blog/issues/12)
